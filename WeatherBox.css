@@ -1,0 +1,9 @@
+.Box{
+    height: 450px;
+    width:90%;
+    border: 20px solid rgb(228, 192, 216);
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(212, 235, 227);
+    padding: 5px;
+}
